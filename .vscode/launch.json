@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TransitCalculator",
+            "request": "launch",
+            "mainClass": "TransitCalculator",
+            "projectName": "TransitCalculator_e3de3933"
+        }
+    ]
+}
